@@ -3,7 +3,7 @@
 
 **you can also contribute to our open source**
 
-**But you have to read <a href="https://github.com/GSprogrammers/TECHLORE/blob/main/How%20to%20contribute.md">contributing readme</a> before do any of contribute.**
+**But you have to read <a href="https://github.com/GSV-Programmers/TECHLORE/blob/main/contributing.md">contributing readme</a> before do any of contribute.**
 
 **If you contibuted you can fill the form below in home page of TECHLORE site**
 
